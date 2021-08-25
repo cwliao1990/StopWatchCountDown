@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/countDown.png</file>
+        <file>image/stopWatch.png</file>
+        <file>image/clock.png</file>
+        <file>image/alarmClock.png</file>
+    </qresource>
+</RCC>

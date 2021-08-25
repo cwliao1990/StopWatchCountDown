@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CountDownView.qml</file>
+        <file>main.qml</file>
+        <file>StopWatchView.qml</file>
+        <file>controls/RectangleBorder.qml</file>
+        <file>controls/ClockDragHand.qml</file>
+    </qresource>
+</RCC>
