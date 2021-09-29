@@ -51,6 +51,5 @@ Rectangle {
                 _self.positionChanged();
             }
         }
-
     }
 }
